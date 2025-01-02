@@ -1,4 +1,4 @@
-# Práctica 2: Creación de un Plugin Personalizado con Terraform
+# Práctica 3: Creación de un Plugin Personalizado con Terraform
 
 ## Objetivo
 Aprender a crear un plugin personalizado sencillo en Terraform que permita crear un bucket S3 y subir código HTML a él.
